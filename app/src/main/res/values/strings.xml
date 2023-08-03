@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_series">Series</string>
+    <string name="title_episodes">Episodes</string>
+
+    <string name="movies">Movies 2023</string>
+    <string name="movie_detail">Movie Details</string>
+    <string name="search">Search</string>
+    <string name="series">Series</string>
+    <string name="series_2023">Series 2023</string>
+    <string name="ep_2023">Episodes 2023</string>
+</resources>
